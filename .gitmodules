@@ -1,0 +1,30 @@
+[submodule "vim/.vim/pack/plugins/start/vim-lsp"]
+	path = vim/.vim/pack/plugins/start/vim-lsp
+	url = git@github.com:prabirshrestha/vim-lsp.git
+[submodule "vim/.vim/pack/plugins/start/asyncomplete.vim"]
+	path = vim/.vim/pack/plugins/start/asyncomplete.vim
+	url = git@github.com:prabirshrestha/asyncomplete.vim.git
+[submodule "vim/.vim/pack/plugins/start/asyncomplete-lsp.vim"]
+	path = vim/.vim/pack/plugins/start/asyncomplete-lsp.vim
+	url = git@github.com:prabirshrestha/asyncomplete-lsp.vim.git
+[submodule "vim/.vim/pack/plugins/start/gruvbox"]
+	path = vim/.vim/pack/plugins/start/gruvbox
+	url = git@github.com:morhetz/gruvbox.git
+[submodule "vim/.vim/pack/plugins/start/rust.vim"]
+	path = vim/.vim/pack/plugins/start/rust.vim
+	url = git@github.com:rust-lang/rust.vim.git
+[submodule "vim/.vim/pack/plugins/start/vim-lsp-settings"]
+	path = vim/.vim/pack/plugins/start/vim-lsp-settings
+	url = git@github.com:mattn/vim-lsp-settings.git
+[submodule "vim/.vim/pack/plugins/start/vim-pandoc-syntax"]
+	path = vim/.vim/pack/plugins/start/vim-pandoc-syntax
+	url = git@github.com:vim-pandoc/vim-pandoc-syntax.git
+[submodule "vim/.vim/pack/plugins/start/vim-togglelist"]
+	path = vim/.vim/pack/plugins/start/vim-togglelist
+	url = git@github.com:milkypostman/vim-togglelist.git
+[submodule "vim/.vim/pack/plugins/start/webapi-vim"]
+	path = vim/.vim/pack/plugins/start/webapi-vim
+	url = git@github.com:mattn/webapi-vim.git
+[submodule "vim/.vim/pack/plugins/start/vim-jsx-pretty"]
+	path = vim/.vim/pack/plugins/start/vim-jsx-pretty
+	url = git@github.com:MaxMEllon/vim-jsx-pretty.git
